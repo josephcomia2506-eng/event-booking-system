@@ -46,6 +46,7 @@
 
 ### 9.1 Design Guidelines
 ### 9.2 Figma Prototype
+:link: https://www.figma.com/design/iam08po29rTXSPAuGXlXfo/EventSphere?node-id=7-33&t=aWe7F7rHggGLNo3V-1
 
 ## 10. Glossary
 
