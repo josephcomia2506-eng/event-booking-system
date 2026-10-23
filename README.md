@@ -384,7 +384,7 @@ Main entities: User (Customer / Producer / Admin / Staff), Venue, Event, VIP Pac
 
 ### ERD
 
-> The ERD is shown below using Mermaid (rendered by GitHub). An exported image/link of the ERD: `docs/erd.png`
+> The ERD is shown below using Mermaid (rendered by GitHub). An exported image/link of the ERD: `[docs/erd.png](https://dbdiagram.io/d/ERD-6adb16bbf65bbc60f60f4bd4)`
 
 erDiagram
     USER ||--o{ BOOKING : places
