@@ -561,7 +561,7 @@ All members contribute to documentation, code reviews, testing, and integration.
 **Project Links**
 - GitHub Repository: `event-booking-system`
 - Figma Mockup: `<ADD LINK>`
-- ERD: `<ADD LINK>`
+- ERD: `https://dbdiagram.io/d/ERD-6adb16bbf65bbc60f60f4bd4`
 - Trello Board (Public, instructor invited; card naming `FEAT000-`): `https://trello.com/invite/b/6adb07aa720e76bb65cfdcc0/ATTIa226ffe861d6aa026bcd43b87d47c99eB1E6085F/eventsphere-event-booking-system`
 
 **Open Items (Pending Client Confirmation)**
